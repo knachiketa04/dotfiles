@@ -1,3 +1,6 @@
 font-family = JetBrains Mono Nerd Font
 font-size = 22
 theme = TokyoNight
+cursor-style = block
+shell-integration-features = no-cursor
+macos-titlebar-style = hidden
