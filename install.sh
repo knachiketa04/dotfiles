@@ -59,7 +59,7 @@ install_or_upgrade "stow" ""
 install_or_upgrade "fastfetch" ""
 install_or_upgrade "lsd" ""
 install_or_upgrade "zoxide" ""
-install_or_upgrade "oh-my-posh" ""
+install_or_upgrade "starship" ""
 install_or_upgrade "fzf" ""
 install_or_upgrade "visual-studio-code" "cask"
 

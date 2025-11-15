@@ -57,4 +57,4 @@ alias c='clear'
 
 # Shell integrations
 eval "$(zoxide init --cmd cd zsh)"
-eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/config.toml)"
+eval "$(starship init zsh)"

@@ -15,7 +15,7 @@ This dotfiles repository provides an automated setup for a complete macOS develo
 ### Terminal
 
 - **Ghostty** - Fast, native, GPU-accelerated terminal emulator
-- **Oh My Posh** - Cross-platform prompt theme engine
+- **Starship** - Fast, customizable cross-shell prompt
 - **Fastfetch** - System information display
 
 ### Shell Configuration (Zsh)
@@ -87,8 +87,7 @@ dotfiles/
 │   │   └── aerospace.toml
 │   ├── ghostty/
 │   │   └── config
-│   └── oh-my-posh/
-│       └── config.toml
+│   └── starship.toml
 ├── .zshrc
 ├── install.sh
 └── README.md
